@@ -1,0 +1,8 @@
+WAR\model\Usuario.class
+WAR\controller\HelloAction.class
+WAR\interceptor\ValidaLogin.class
+WAR\controller\BaseAction.class
+WAR\exceptions\UsuarioNAutorizado.class
+WAR\business\LoginService.class
+WAR\controller\LoginAction.class
+WAR\dao\UsuarioQueryHelper.class
